@@ -1,5 +1,5 @@
-NFT Marketplace - Modern UI/UX React Native App
-NFT Marketplace
+# NFT Marketplace - Modern UI/UX React Native App
+# NFT Marketplace
 ![image](https://user-images.githubusercontent.com/50388731/235293775-ed2188e8-2588-493f-9a38-e8978d55798d.png)
 
 Introduction
